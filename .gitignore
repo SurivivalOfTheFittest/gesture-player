@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# separate project
+mimu_dupe/
+
+# captured audio and video
+recordings/
