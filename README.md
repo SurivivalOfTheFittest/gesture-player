@@ -1,6 +1,6 @@
 # Throwing Hands (WIP)
 
-Play chords with two hands in front of the laptop camera. Sound comes from the laptop speakers.
+Play chords with left hand in front of the laptop camera. Sound comes from the laptop speakers.
 
 - **Left hand** — 1–5 fingers pick circles 1–5. Pinch plays circle 6.
 - **Right hand** — shapes the chord while it plays: raise your hand for louder, lower it for quieter, tilt for brighter or darker tone, stick your thumb out to jump up an octave.
